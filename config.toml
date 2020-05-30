@@ -15,7 +15,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
   homeTitle = "My Blog"
-  subtitle = "Where I write things that I like about JavaScript and Tech"
+  subtitle = "Where I write things that I like about JavaScript, Web and Tech"
   about = "Front-end and JavaScript developer"
   mainSections = ["post","posts"]
   logo = "img/avatar-logo.png" # Expecting square dimensions
