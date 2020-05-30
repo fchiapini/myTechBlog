@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My tech journal"
+title = "Felipe Chiapini Blog"
+subtitle = "JavaScript and Front-end developer"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -13,8 +14,9 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-  homeTitle = "Blog"
-  subtitle = "JavaScript and Web ..."
+  homeTitle = "My Blog"
+  subtitle = "Where I write things that I like about JavaScript and Tech"
+  about = "JavaScript and Front-end developer"
   mainSections = ["post","posts"]
   logo = "img/avatar-logo.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
@@ -45,6 +47,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Felipe Chiapini"
+  about = "JavaScript and Front-end developer"
   website = "https://www.felipechiapini.com"
   email = "fchiapini@gmail.com"
 # facebook = "username"
